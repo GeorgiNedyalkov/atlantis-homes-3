@@ -130,30 +130,7 @@ export const locationImage = img("lZ3W9vQmOMQz8Na9AL0I9dQrk.jpeg");
 
 export const ctaBannerImage = img("mFA3OcQEbG6daaM69Ra6Rw4.jpeg");
 
-export const team = [
-  {
-    name: "Nikalas Nedyalkov",
-    role: "Co-founder & CEO",
-    image: img("nSz2vqEGGChUgAS9dMBTrdb5U0.jpg"),
-  },
-  {
-    name: "Georgi Nedyalkov",
-    role: "Co-founder",
-    image: img("rP8Z9hfXyLeTRN6aXB62XXjouI.jpg"),
-  },
-  {
-    name: "Lyubomir Tomov",
-    role: "Chief F&B officer",
-    image: img("wtMbJ01eXg7wqxOkhK1VfPS8RCM.jpg"),
-  },
-  {
-    name: "Plamen Nikolov",
-    role: "3D Visualisation Specialist",
-    image: img("1doHD8Cut14xRY8gYrRj64IENA.jpg"),
-  },
-];
-
-export const companyImage = img("j1euyVTD6VFznmG00grDaUt5Rtc.jpeg");
+export const companyImage = "/g.jpeg";
 
 export const companyStats = [
   { value: 14, suffix: "", label: "Completed Projects" },
@@ -162,9 +139,9 @@ export const companyStats = [
 ];
 
 export const companyNote = {
-  eyebrow: "About NPG",
-  heading: "A Note from the CEO",
-  body: "Our path in construction began 30 years ago when our grandfather laid the first foundations in construction back in the communist era. In the early 2000’s our father and uncle completed their first project, laying the foundation for a successful career that today includes over 14 completed projects. As third generation builders, NOVI Property Group – uniting two brothers and their father – continues the tradition, combining sophisticated design with modern architecture. Our mission is to build not just buildings, but complete neighbourhoods where luxury, comfort and elegance meet the highest standards of quality.",
+  eyebrow: "About us",
+  heading: "A Note from the Developers",
+  body: "The path of the developers began 30 years ago when their father and now grandfather laid the first foundations in construction back in the communist era. In the early 2000’s our father and uncle completed their first project, laying the foundation for a successful career that today includes over 14 completed projects. As third generation builders, NOVI Property Group – uniting two brothers and their father – continues the tradition, combining sophisticated design with modern architecture. Our mission is to build not just buildings, but complete neighbourhoods where luxury, comfort and elegance meet the highest standards of quality.",
 };
 
 export const faqItems = [

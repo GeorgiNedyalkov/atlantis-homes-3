@@ -30,7 +30,7 @@ export function Location() {
           <Reveal className="relative aspect-[16/10] overflow-hidden rounded-md bg-ink">
             <iframe
               title="Atlantis Homes III location"
-              src="https://www.openstreetmap.org/export/embed.html?bbox=27.560%2C42.410%2C27.700%2C42.480&layer=mapnik&marker=42.443%2C27.633"
+              src="https://www.openstreetmap.org/export/embed.html?bbox=27.560%2C42.560673%2C27.532669%2C42.480&layer=mapnik&marker=42.443%2C27.633"
               className="h-full w-full grayscale-[15%]"
               loading="lazy"
             />

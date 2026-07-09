@@ -6,7 +6,6 @@ import { FeaturesTabs } from "@/components/FeaturesTabs";
 import { AboutResidences } from "@/components/AboutResidences";
 import { Location } from "@/components/Location";
 import { CtaBanner } from "@/components/CtaBanner";
-import { Team } from "@/components/Team";
 import { AboutCompany } from "@/components/AboutCompany";
 import { Faq } from "@/components/Faq";
 import { Contact } from "@/components/Contact";
@@ -24,7 +23,6 @@ export default function Home() {
         <AboutResidences />
         <Location />
         <CtaBanner />
-        <Team />
         <AboutCompany />
         <Faq />
         <Contact />
